@@ -3,6 +3,7 @@
 /run
 /.vscode
 /bin
+/.idea
 .classpath
 
 .project
